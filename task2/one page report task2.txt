@@ -1,0 +1,51 @@
+Customer Segmentation & Churn Analysis Report – Alfido Tech
+
+Executive Summary
+
+The aim of the analysis in this paper is to analyze transaction records of customers so as to identify the different customer segments, understand their buying pattern and also assess any possibility of churn risks. The data was cleaned and feature engineering performed before performing the segmentation process through Recency, Frequency, and Monetary Analysis.
+
+Customer behavior analysis proved the existence of different customer groups with different behaviors and contribution to the business revenues. In particular, there was a relatively small number of customers who made frequent purchases and brought substantial revenues to the firm. On the other hand, another group of customers had periods when no purchases had been made, thus implying possible customer churn.
+
+Moreover, purchase behavior analysis showed that repeat customers brought in greater revenues compared to first-time customers, which is why retention was very important. Customer retention analysis also showed that more purchases correlated with better retention results for customers.
+
+These findings show that specific engagement tactics can help retain customers, increase their lifetime value, and minimize churn rates. Based on customer segmentation information, the company can strategically deploy its marketing efforts and offer customized experiences to distinct customer segments.
+
+Key Findings
+
+1.High-value customers make up a significant portion of total revenue generation.
+2.Inactive customers can be identified as being at risk of churn based on lower purchase frequency and extended inactive periods.
+3.Repeat customers create more income and exhibit greater customer engagement compared to non-repeat customers.
+
+Three Practical Suggestions
+1. Promote Technology-Specific Campaigns
+Technology provides the biggest chunk of revenues. More promotion, bundling, and marketing of technological products will bring in more money compared to allocating budget to all other items equally.
+Anticipated Results: Increased average revenue per transaction and revenue growth.
+
+2. Adopt Practices That Helped Western Region to Prosper
+Western region performs the best in comparison to other regions. Study pricing, products offered, marketing efforts, and demographics of customers in the West. Adopt good practices for other two regions – Central and Southern.
+Anticipated Results: Improved consistency of regional performance.
+
+3. Utilize Peak Sales Time Effectively
+Peak sales periods occur at certain times of year and on weekends. Create promotions, inventories, and advertising campaigns before these peak seasons.
+Anticipated Results: Improved use of inventories and higher conversion rates.
+
+Five Tactical Improvements
+
+1. Product Bundling
+Combine successful technology products with complimentary accessories in order to boost revenue per sale.
+
+2. Sales Improvement in Underserving Regions
+Offer region-specific sales promotions to underperforming regions (Central and South).
+
+3. Customer Segmentation
+Segment customers based on their RFM characteristics and launch personalized campaigns.
+
+4. Campaign Timing by Region
+Design a calendar of sales by season and ensure the timing of sales campaigns is optimized for maximum success.
+
+5. Recommendation Engine
+Leverage product recommendations in order to promote best-selling products, including Phones, Storage Devices, and Accessories.
+
+Conclusion
+
+The customer segmentation and churn analysis helped to uncover some of the key customer segments, purchasing patterns, and opportunities for customer retention. The findings show that with appropriate engagement strategies, customer loyalty programs, and churn prevention tactics, better relationships with customers can be built and maintained. By applying customer insight information, Alfido Tech can foster greater customer satisfaction and higher customer retention.
