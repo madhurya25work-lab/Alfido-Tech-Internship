@@ -1,0 +1,30 @@
+Customer Behavior Analysis Summary – Alfido Tech
+Overview:
+This summary highlights key findings from an analysis of a customer transaction database aimed at understanding purchasing patterns, segmentation, revenue trends, and churn risks. After data cleaning and feature engineering, RFM-based segmentation was conducted.
+
+Key Findings:
+1. Revenue contribution is dominated by loyal customers
+
+According to the RFM results, only some of the customers are responsible for generating most revenues. They tend to make frequent purchases, and their spending level is high.
+
+2. Some customers have high churn probability
+
+Customers with high recency values have not purchased any items for a long period, making them likely churners. Therefore, customer retention measures should be put into place to engage them again.
+
+3. There are differences in purchase trends month-to-month
+
+Monthly sales review demonstrated revenue and customer activity fluctuation throughout the year.
+
+Recommendations:
+1. Introduce loyalty programs
+
+Provide discounts, cashbacks, or any rewards that encourage clients to continue buying.
+
+2. Initiate re-engagement campaigns
+
+Reach out to inactive customers using email, offer coupons or make any other attempt to revive them.
+
+3. Maximize revenue by promoting products during profitable months
+
+Conclusion:
+The analysis was able to provide valuable insight into customer buying patterns, important customer segments, and even customer churn threats.
