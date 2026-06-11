@@ -1,0 +1,139 @@
+Customer Transaction & Behavior Analysis Report
+Alfido Tech
+Prepared By:
+T.Madhurya Lakshmi
+Date:
+June 10 2026
+
+Notebook link (code included):
+https://colab.research.google.com/drive/1_VEn4C9CQD-SEMkAtrS9NYVwdpjCp49N#scrollTo=F21uYRqtTKLD 
+
+1. Executive Summary
+This report analyzes customer transaction and behavioral data for Alfido Tech to identify purchasing patterns, customer segments, retention trends, and churn risks. Data cleaning, feature engineering, exploratory data analysis, and customer segmentation techniques were applied using Python and machine learning methods.
+The analysis identified valuable customer groups, inactive customers at risk of churn, and seasonal sales patterns. Based on the findings, several recommendations have been proposed to improve customer engagement, retention, and overall business performance.
+
+2. Objective of the Analysis
+The primary objectives of this project were:
+Perform data cleaning and feature engineering
+Analyze customer purchasing behavior
+Segment customers using RFM analysis and clustering
+Identify churn risks and retention trends
+Generate actionable business recommendations for Alfido Tech
+
+3. Dataset Overview
+The dataset contains customer transaction records including:
+Customer ID
+Order ID
+Order Date
+Product Purchased
+Quantity
+Price
+Revenue
+Purchase Frequency
+The dataset was cleaned by handling missing values, removing duplicates, and converting date columns into proper datetime format.
+
+4. Data Cleaning & Feature Engineering
+The following preprocessing steps were performed:
+Data Cleaning
+Removed duplicate records
+Checked and handled missing values
+Converted date columns into datetime format
+Verified data types of all columns
+Feature Engineering
+New features created:
+Revenue = total Purchase Amount
+Month and Year from order date
+Customer purchase frequency
+Recency, Frequency, and Monetary (RFM) metrics
+
+5. Summary Statistics
+Basic statistical analysis was performed to understand the distribution of customer transactions.
+The following metrics were analyzed:
+Mean
+Median
+Mode
+Standard deviation
+Missing values
+Data types
+Key observations:
+Revenue distribution showed significant variation among customers
+A small group of customers generated high purchase values
+Certain products contributed disproportionately to overall revenue
+
+6. Visualizations & Purchase Patterns
+Several visualizations were created to analyze transaction behavior and purchase trends.
+Key Visualizations
+Monthly Revenue Trend (Line Chart)
+Top Products by Revenue (Bar Chart)
+Customer Purchase Frequency (Histogram)
+Customer Segment Distribution
+Active Customer Trend
+Churn Risk Distribution
+Purchase Pattern Findings
+Revenue fluctuated across different months, indicating seasonal trends
+Certain products consistently generated higher sales
+Repeat customers contributed significantly to business revenue
+
+7. Customer Segmentation (RFM Analysis)
+Customers were segmented using RFM analysis based on:
+Recency: Days since last purchase
+Frequency: Number of purchases
+Monetary: Total spending amount
+K-Means clustering was applied to group customers into four segments.
+Segment Profiles
+Segment 0 – Loyal Customers
+Frequent purchases
+High revenue contribution
+Low churn risk
+Segment 1 – High-Value Customers
+Highest spending behavior
+Important for long-term profitability
+Segment 2 – At-Risk Customers
+Long inactivity periods
+Low recent engagement
+High churn probability
+Segment 3 – New or Occasional Customers
+Low purchase frequency
+Potential for future growth
+
+8. Retention & Churn Analysis
+Customer retention trends were analyzed using monthly active customers and recency metrics.
+Findings
+Some customers showed high inactivity periods
+Churn risk increased significantly after long gaps in purchasing
+Active customer counts varied across months
+The analysis suggests the need for retention-focused engagement strategies.
+
+9. Key Findings
+A small percentage of customers contribute a large share of revenue.
+High-recency customers are more likely to churn and require re-engagement efforts.
+Seasonal purchase patterns indicate opportunities for targeted marketing campaigns.
+Loyal customers demonstrate strong repeat purchasing behavior.
+Product demand varies significantly across categories.
+
+10. Recommendations for Alfido Tech
+
+1. Introduce a Loyalty Program
+Reward repeat customers using points, discounts, or cashback offers to improve retention.
+2. Launch Personalized Marketing Campaigns
+Use customer purchase history to send personalized recommendations and targeted promotions.
+3. Re-engage Inactive Customers
+Offer discounts and reminder campaigns to customers with high recency scores.
+4. Focus on High-Performing Products
+Increase promotions and inventory planning for products with consistently high sales.
+5. Improve Customer Retention Strategies
+Provide subscription benefits, referral programs, and customer support improvements to strengthen engagement.
+
+11. Conclusion
+The customer behavior analysis successfully identified purchasing trends, customer segments, and churn risks within Alfido Tech’s transaction dataset.
+RFM analysis and clustering techniques helped categorize customers into meaningful business segments, enabling targeted marketing and retention strategies.
+The findings and recommendations from this analysis can support Alfido Tech in improving customer engagement, increasing retention, and maximizing long-term profitability.
+
+12. Tools & Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+Google Colab 
